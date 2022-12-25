@@ -21,6 +21,8 @@
   <img align="center" alt="AriJR-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="AriJR-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="AriJR-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="AriJR-Vagrant" height="30" width="40" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg">
+  
   </div>
   
   ##
