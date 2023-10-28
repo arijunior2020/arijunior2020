@@ -1,9 +1,9 @@
 Olá, eu Sou Arimatéia Júnior! 👋
-👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.
-📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação.
-⚽ Amante de Futebol e entusiasta por novas tecnologias.
-💼 Atualmente, estou aprimorando minhas habilidades e conhecimentos para oferecer soluções inovadoras e eficientes em meus projetos.
-🌟 Comprometido com o aprendizado contínuo e o aprimoramento profissional para enfrentar os desafios tecnológicos de hoje e do futuro.
+- 👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.
+- 📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação.
+- ⚽ Amante de Futebol e entusiasta por novas tecnologias.
+- 💼 Atualmente, estou aprimorando minhas habilidades e conhecimentos para oferecer soluções inovadoras e eficientes em meus projetos.
+- 🌟 Comprometido com o aprendizado contínuo e o aprimoramento profissional para enfrentar os desafios tecnológicos de hoje e do futuro.
 <div align="center">
   <a href="https://github.com/arijunior2020">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arijunior2020&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
