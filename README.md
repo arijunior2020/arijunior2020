@@ -1,7 +1,51 @@
-Olá, eu Sou Arimatéia Júnior! 👋
-- 👨‍💻 Apaixonado por tecnologias e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.
+Olá, Eu Sou Arimatéia Júnior! 👋
+
+- 👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.
+- 📜 Possuo certificações em:<br>
+  Google:
+  - Associate Cloud Engineer
+
+  Microsoft:
+  - Microsoft Certified: Identity and Access Administrator Associate
+  - Microsoft Certified: Azure Developer Associate
+  - Microsoft Certified: DevOps Engineer Expert
+  - Microsoft Certified: Azure Solutions Architect Expert
+  - AZ-305: Designing Microsoft Azure Infrastructure Solutions
+  - Microsoft 365 Certified: Fundamentals
+  - Microsoft Certified Trainer 2022-2023
+  - Microsoft Certified: Azure Administrator Associate
+  - Microsoft Certified: Azure Fundamentals
+  - Microsoft Certified Security, Compliance, and Identity
+  - MCP - Microsoft Certified Professional
+  - MCTS - Microsoft Certified Specialist - Windows Server 2008 - Network Infrastructure and Configuration
+
+  VMware:
+  - VMware Certified Professional - VMware Cloud 2023
+
+  Oracle:
+  - Oracle Certified Foundations Associate
+  - Oracle Cloud Infrastructure 2023 Certified Architect Associate
+
+  Proofpoint:
+  - Proofpoint Certified Insider Threat Specialist 2023
+
+  AWS:
+  - AWS Certified Cloud Practitioner
+  - AWS Cloud Practitioner Essentials
+
+  EXIN:
+  - EXIN - Privacy and Data Protection Foundation - PDPF
+
+  Fortinet:
+  - Fortinet NSE 1 - Network Security Associate
+  - Fortinet NSE 2 - Network Security Associate
+
+  ITIL:
+  - ITIL Foundation Certificate in IT Service Management - V3
+  
+   Demonstrando minha dedicação ao aprimoramento contínuo e à excelência profissional.
 - 📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação.
-- ⚽ Amante de futebol e entusiasta por novas tecnologias.
+- ⚽ Amante de Futebol e entusiasta por novas tecnologias.
 - 💼 Atualmente, estou aprimorando minhas habilidades e conhecimentos para oferecer soluções inovadoras e eficientes em meus projetos.
 - 🌟 Comprometido com o aprendizado contínuo e o aprimoramento profissional para enfrentar os desafios tecnológicos de hoje e do futuro.
 <div align="center">
