@@ -1,7 +1,7 @@
 Olá, eu Sou Arimatéia Júnior! 👋
-- 👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.
+- 👨‍💻 Apaixonado por tecnologias e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.
 - 📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação.
-- ⚽ Amante de Futebol e entusiasta por novas tecnologias.
+- ⚽ Amante de futebol e entusiasta por novas tecnologias.
 - 💼 Atualmente, estou aprimorando minhas habilidades e conhecimentos para oferecer soluções inovadoras e eficientes em meus projetos.
 - 🌟 Comprometido com o aprendizado contínuo e o aprimoramento profissional para enfrentar os desafios tecnológicos de hoje e do futuro.
 <div align="center">
