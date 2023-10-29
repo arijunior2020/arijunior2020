@@ -1,53 +1,64 @@
-**<span style="color:blue; font-weight:bold;">JOSE ARIMATEIA RODRIGUES JUNIOR</span>**
-
-- 👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.
-- 📜 Possuo certificações em:<br>
-  Google:
-  - Associate Cloud Engineer
-
-  Microsoft:
-  - Microsoft Certified: Identity and Access Administrator Associate
-  - Microsoft Certified: Azure Developer Associate
-  - Microsoft Certified: DevOps Engineer Expert
-  - Microsoft Certified: Azure Solutions Architect Expert
-  - AZ-305: Designing Microsoft Azure Infrastructure Solutions
-  - Microsoft 365 Certified: Fundamentals
-  - Microsoft Certified Trainer 2022-2023
-  - Microsoft Certified: Azure Administrator Associate
-  - Microsoft Certified: Azure Fundamentals
-  - Microsoft Certified Security, Compliance, and Identity
-  - MCP - Microsoft Certified Professional
-  - MCTS - Microsoft Certified Specialist - Windows Server 2008 - Network Infrastructure and Configuration
-
-  VMware:
-  - VMware Certified Professional - VMware Cloud 2023
-
-  Oracle:
-  - Oracle Certified Foundations Associate
-  - Oracle Cloud Infrastructure 2023 Certified Architect Associate
-
-  Proofpoint:
-  - Proofpoint Certified Insider Threat Specialist 2023
-
-  AWS:
-  - AWS Certified Cloud Practitioner
-  - AWS Cloud Practitioner Essentials
-
-  EXIN:
-  - EXIN - Privacy and Data Protection Foundation - PDPF
-
-  Fortinet:
-  - Fortinet NSE 1 - Network Security Associate
-  - Fortinet NSE 2 - Network Security Associate
-
-  ITIL:
-  - ITIL Foundation Certificate in IT Service Management - V3
-  
-   Demonstrando minha dedicação ao aprimoramento contínuo e à excelência profissional.
-- 📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação.
-- ⚽ Amante de Futebol e entusiasta por novas tecnologias.
-- 💼 Atualmente, estou aprimorando minhas habilidades e conhecimentos para oferecer soluções inovadoras e eficientes em meus projetos.
-- 🌟 Comprometido com o aprendizado contínuo e o aprimoramento profissional para enfrentar os desafios tecnológicos de hoje e do futuro.
+<span style="color: blue; font-weight: bold;">JOSE ARIMATEIA RODRIGUES JUNIOR</span>
+<ul style="margin-bottom: 0;">
+    <li>👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.</li>
+    <li>📜 Possuo certificações em:</li>
+    <ul style="margin-top: 0;">
+        <li>Google:</li>
+        <ul style="margin-top: 0;">
+            <li>Associate Cloud Engineer</li>
+        </ul>
+        <li>Microsoft:</li>
+        <ul style="margin-top: 0;">
+            <li>Microsoft Certified: Identity and Access Administrator Associate</li>
+            <li>Microsoft Certified: Azure Developer Associate</li>
+            <li>Microsoft Certified: DevOps Engineer Expert</li>
+            <li>Microsoft Certified: Azure Solutions Architect Expert</li>
+            <li>AZ-305: Designing Microsoft Azure Infrastructure Solutions</li>
+            <li>Microsoft 365 Certified: Fundamentals</li>
+            <li>Microsoft Certified Trainer 2022-2023</li>
+            <li>Microsoft Certified: Azure Administrator Associate</li>
+            <li>Microsoft Certified: Azure Fundamentals</li>
+            <li>Microsoft Certified Security, Compliance, and Identity</li>
+            <li>MCP - Microsoft Certified Professional</li>
+            <li>MCTS - Microsoft Certified Specialist - Windows Server 2008 - Network Infrastructure and Configuration</li>
+        </ul>
+        <li>VMware:</li>
+        <ul style="margin-top: 0;">
+            <li>VMware Certified Professional - VMware Cloud 2023</li>
+        </ul>
+        <li>Oracle:</li>
+        <ul style="margin-top: 0;">
+            <li>Oracle Certified Foundations Associate</li>
+            <li>Oracle Cloud Infrastructure 2023 Certified Architect Associate</li>
+        </ul>
+        <li>Proofpoint:</li>
+        <ul style="margin-top: 0;">
+            <li>Proofpoint Certified Insider Threat Specialist 2023</li>
+        </ul>
+        <li>AWS:</li>
+        <ul style="margin-top: 0;">
+            <li>AWS Certified Cloud Practitioner</li>
+            <li>AWS Cloud Practitioner Essentials</li>
+        </ul>
+        <li>EXIN:</li>
+        <ul style="margin-top: 0;">
+            <li>EXIN - Privacy and Data Protection Foundation - PDPF</li>
+        </ul>
+        <li>Fortinet:</li>
+        <ul style="margin-top: 0;">
+            <li>Fortinet NSE 1 - Network Security Associate</li>
+            <li>Fortinet NSE 2 - Network Security Associate</li>
+        </ul>
+        <li>ITIL:</li>
+        <ul style="margin-top: 0;">
+            <li>ITIL Foundation Certificate in IT Service Management - V3</li>
+        </ul>
+    </ul>
+    <li>📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação.</li>
+    <li>⚽ Amante de Futebol e entusiasta por novas tecnologias.</li>
+    <li>💼 Atualmente, estou aprimorando minhas habilidades e conhecimentos para oferecer soluções inovadoras e eficientes em meus projetos.</li>
+    <li>🌟 Comprometido com o aprendizado contínuo e o aprimoramento profissional para enfrentar os desafios tecnológicos de hoje e do futuro.</li>
+</ul>
 <div align="center">
   <a href="https://github.com/arijunior2020">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arijunior2020&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -85,4 +96,3 @@
  
   ![Snake animation](https://github.com/arijunior2020/arijunior2020/blob/output/github-contribution-grid-snake.svg)
   </div>
-
