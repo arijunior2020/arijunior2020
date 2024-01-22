@@ -1,58 +1,18 @@
 **<span style="color: blue; font-weight: bold;">JOSE ARIMATEIA RODRIGUES JUNIOR</span>**
 <ul style="margin-bottom: 0;">
     <li>👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.</li>
-    <li>📜 Possuo certificações em:</li>
+    <li>📜 Profissional certificado:</li>
     <ul style="margin-top: 0;">
-        <li>Google:</li>
-        <ul style="margin-top: 0;">
-            <li>Associate Cloud Engineer</li>
-        </ul>
-        <li>Microsoft:</li>
-        <ul style="margin-top: 0;">
-            <li>Microsoft Certified: Identity and Access Administrator Associate</li>
-            <li>Microsoft Certified: Azure Developer Associate</li>
-            <li>Microsoft Certified: DevOps Engineer Expert</li>
-            <li>Microsoft Certified: Azure Solutions Architect Expert</li>
-            <li>AZ-305: Designing Microsoft Azure Infrastructure Solutions</li>
-            <li>Microsoft 365 Certified: Fundamentals</li>
-            <li>Microsoft Certified Trainer 2022-2023</li>
-            <li>Microsoft Certified: Azure Administrator Associate</li>
-            <li>Microsoft Certified: Azure Fundamentals</li>
-            <li>Microsoft Certified Security, Compliance, and Identity</li>
-            <li>MCP - Microsoft Certified Professional</li>
-            <li>MCTS - Microsoft Certified Specialist - Windows Server 2008 - Network Infrastructure and Configuration</li>
-        </ul>
-        <li>VMware:</li>
-        <ul style="margin-top: 0;">
-            <li>VMware Certified Professional - VMware Cloud 2023</li>
-        </ul>
-        <li>Oracle:</li>
-        <ul style="margin-top: 0;">
-            <li>Oracle Certified Foundations Associate</li>
-            <li>Oracle Cloud Infrastructure 2023 Certified Architect Associate</li>
-        </ul>
-        <li>Proofpoint:</li>
-        <ul style="margin-top: 0;">
-            <li>Proofpoint Certified Insider Threat Specialist 2023</li>
-        </ul>
-        <li>AWS:</li>
-        <ul style="margin-top: 0;">
-            <li>AWS Certified Cloud Practitioner</li>
-            <li>AWS Cloud Practitioner Essentials</li>
-        </ul>
-        <li>EXIN:</li>
-        <ul style="margin-top: 0;">
-            <li>EXIN - Privacy and Data Protection Foundation - PDPF</li>
-        </ul>
-        <li>Fortinet:</li>
-        <ul style="margin-top: 0;">
-            <li>Fortinet NSE 1 - Network Security Associate</li>
-            <li>Fortinet NSE 2 - Network Security Associate</li>
-        </ul>
-        <li>ITIL:</li>
-        <ul style="margin-top: 0;">
-            <li>ITIL Foundation Certificate in IT Service Management - V3</li>
-        </ul>
+        <li>Google</li>
+        <li>Microsoft</li>
+        <li>VMware</li>
+        <li>Oracle</li>
+        <li>Proofpoint</li>
+        <li>AWS</li>
+        <li>EXIN</li>
+        <li>Fortinet</li>
+        <li>ITIL</li>
+    </ul>    
     </ul>
     <li>📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação.</li>
     <li>⚽ Amante de Futebol e entusiasta por novas tecnologias.</li>
