@@ -26,6 +26,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arijunior2020&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijunior2020&layout=compact&langs_count=7&theme=merko"/>
 </div>
+<hr> 
 <div style="display: inline_block"><br>
   <img align="center" alt="AriJR-Ansible" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3911/PNG/96/ansible_logo_icon_247616.png">
   <img align="center" alt="AriJR-Kubernets" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/kubernetes_logo_icon_168359.png">
@@ -42,7 +43,9 @@
   <img align="center" alt="AriJR-SQL-Server" height="30" width="40" src="https://cdn.icon-icons.com/icons2/512/PNG/96/dbs-sqlserver_icon-icons.com_50903.png">
   <img align="center" alt="AriJR-Vagrant" height="30" width="40" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-ar21.svg">
   <img align="center" alt="AriJR-Sonarqube" height="30" width="40" src="https://cdn.icon-icons.com/icons2/3915/PNG/96/sonarqube_logo_icon_249575.png">
-  
+  <img align="center" alt="AriJR-GCP" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_cloud_logo_icon_170066.png">
+  <img align="center" alt="AriJR-Oracle" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168919.png">
+    
   </div>
   
   ##
