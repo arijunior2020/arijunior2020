@@ -1,4 +1,4 @@
-<img src = "banner-atual.gif" width = "525px" align = "right">
+<img src = "banner-atual.gif" width = "325px" align = "right">
 # ❤ Olá, bom ter você por aqui! <br>
 <br>
 <ul style="margin-bottom: 0;">
