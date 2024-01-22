@@ -1,8 +1,8 @@
-<img src = "banner-atual.gif" width = "325px">
-# ❤ Olá, bom ter você por aqui!
-
+<img src = "banner-atual.gif" width = "525px" align = "right">
+# ❤ Olá, bom ter você por aqui! <br>
+<br>
 <ul style="margin-bottom: 0;">
-    <li>👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.</li>
+    <li>👨‍💻 Sou apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.</li>
     <li>📜 Profissional certificado:</li>
     <ul style="margin-top: 0;">
         <li>Google</li>
