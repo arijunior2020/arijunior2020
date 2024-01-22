@@ -1,4 +1,6 @@
-**<span style="color: blue; font-weight: bold;">JOSE ARIMATEIA RODRIGUES JUNIOR</span>**
+<img src = "banner.gif" width = "325px">
+# ❤ Olá, bom ter você por aqui!
+
 <ul style="margin-bottom: 0;">
     <li>👨‍💻 Apaixonado por Tecnologia e com mais de 15 anos de experiência em Infraestrutura, Cloud e Segurança de TI.</li>
     <li>📜 Profissional certificado:</li>
