@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325px">
+<img src = "banner-atual.gif" width = "325px">
 # ❤ Olá, bom ter você por aqui!
 
 <ul style="margin-bottom: 0;">
