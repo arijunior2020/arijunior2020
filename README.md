@@ -16,7 +16,7 @@
         <li>ITIL</li>
     </ul>    
     </ul>
-    <li>📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação.</li>
+    <li>📘 Sempre em busca de conhecimento em Computação em Nuvem, DevOps, Linux e Segurança da Informação!!!.</li>
     <li>⚽ Amante de Futebol e entusiasta por novas tecnologias.</li>
     <li>💼 Atualmente, estou aprimorando minhas habilidades e conhecimentos para oferecer soluções inovadoras e eficientes em meus projetos.</li>
     <li>🌟 Comprometido com o aprendizado contínuo e o aprimoramento profissional para enfrentar os desafios tecnológicos de hoje e do futuro.</li>
