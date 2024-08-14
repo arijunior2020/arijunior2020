@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" width="100" src="Foto.gif"  />
+<img align="right" width="100" src="Devops.webp"  />
 
 ###
 
